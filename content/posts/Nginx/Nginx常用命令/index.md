@@ -1,7 +1,7 @@
 ---
 title: "Nginx常用命令"
 aliases: 
-tags: ["Nginx"]
+tags: ["Nginx", _]
 description: "Nginx常用命令"
 date: 2024-05-09T12:59:59+08:00
 draft: false

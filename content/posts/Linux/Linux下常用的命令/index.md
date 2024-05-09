@@ -1,7 +1,7 @@
 ---
 title: "Linux下常用的命令"
 aliases: 
-tags: ["Linux"]
+tags: ["Linux", _]
 description: "Linux下常用的命令"
 date: 2024-05-09T12:52:09+08:00
 draft: false

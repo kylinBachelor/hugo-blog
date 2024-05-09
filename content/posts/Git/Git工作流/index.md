@@ -1,7 +1,7 @@
 ---
 title: "Git工作流"
 aliases: 
-tags: ["git"]
+tags: ["git", _]
 description: "Git工作流"
 date: 2024-05-09T18:37:47+08:00
 draft: false

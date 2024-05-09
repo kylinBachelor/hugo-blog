@@ -1,7 +1,7 @@
 ---
 title: "MySQL常用函数"
 aliases: 
-tags: ["MySQL"]
+tags: ["MySQL", _]
 description: "MySQL常用函数"
 date: 2024-05-09T13:17:42+08:00
 draft: false
