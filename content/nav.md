@@ -28,7 +28,7 @@ time: 18:26
 |       |       |       |       |       |
 |-------|-------|-------|-------|-------|
 | [中文文档](https://cntofu.com/) | [Nginx文档](https://blog.redis.com.cn/doc/) | [Web入门](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web) | [Hutool](https://www.hutool.cn/) | [Spring中文网](https://springdoc.cn/) |
-| [达梦数据库](https://eco.dameng.com/document/dm/zh-cn/faq/) | [LayUI文档](https://lln.kim/layui/doc/) | link8 | link9 |       |
+| [达梦数据库](https://eco.dameng.com/document/dm/zh-cn/faq/) | [LayUI文档](https://lln.kim/layui/doc/) |  |  |       |
 
 ### 🍺 博客
 
