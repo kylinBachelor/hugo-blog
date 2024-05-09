@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 aliases: 
 tags: []
-description: "描述"
+description: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
 ---
