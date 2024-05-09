@@ -1,9 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 aliases: 
-tags: [_Misc]
+tags: []
 description: "描述"
 date: {{ .Date }}
-draft: true
+draft: false
 ---
 
