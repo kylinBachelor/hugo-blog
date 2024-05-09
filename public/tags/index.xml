@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 小丛路子野</title>
+    <link>http://congpeitong.fun/tags/</link>
+    <description>Recent content in Tags on 小丛路子野</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0800</lastBuildDate><atom:link href="http://congpeitong.fun/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java</title>
+      <link>http://congpeitong.fun/tags/java/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0800</pubDate>
+      
+      <guid>http://congpeitong.fun/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kylin</title>
+      <link>http://congpeitong.fun/tags/kylin/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0800</pubDate>
+      
+      <guid>http://congpeitong.fun/tags/kylin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maven</title>
+      <link>http://congpeitong.fun/tags/maven/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0800</pubDate>
+      
+      <guid>http://congpeitong.fun/tags/maven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpringBoot</title>
+      <link>http://congpeitong.fun/tags/springboot/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0800</pubDate>
+      
+      <guid>http://congpeitong.fun/tags/springboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xml</title>
+      <link>http://congpeitong.fun/tags/xml/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0800</pubDate>
+      
+      <guid>http://congpeitong.fun/tags/xml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
